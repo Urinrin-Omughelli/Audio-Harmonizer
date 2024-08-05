@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/HomePageActivityDestination">
+
+    <activity
+        android:id="@+id/HomePageActivityDestination"
+        android:name="com.example.audioharmonizer.HomePageActivity"
+        android:label="@string/nav_home" />
+
+    <activity
+        android:id="@+id/InitialInputActivityDestination"
+        android:name="com.example.audioharmonizer.InitialInputActivity"
+        android:label="@string/nav_initial_inputs" />
+
+    <activity
+        android:id="@+id/AutomaticActivityDestination"
+        android:name="com.example.audioharmonizer.AutomaticActivity"
+        android:label="@string/nav_automatic_mode" />
+
+    <activity
+        android:id="@+id/ManualActivityDestination"
+        android:name="com.example.audioharmonizer.ManualActivity"
+        android:label="@string/nav_manual_mode" />
+
+</navigation>

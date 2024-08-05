@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/nav_home"
+        android:name="com.example.android.audioharmonizer.HomePageActivity" />/>
+    <item
+        android:id="@+id/nav_initial_inputs"
+        android:title="@string/nav_initial_inputs" />
+    <item
+        android:id="@+id/nav_modes"
+        android:title="Mode of Operation" />
+    <item
+        android:id="@+id/nav_automatic"
+        android:title="Automatic Mode" />
+    <item
+        android:id="@+id/nav_manual"
+        android:title="Manual Mode" />
+    <item
+        android:id="@+id/nav_start_singing"
+        android:title="Start Singing" />
+    <item
+        android:id="@+id/nav_faq"
+        android:title="FAQ's" />
+</menu>

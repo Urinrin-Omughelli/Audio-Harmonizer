@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">AudioHarmonizer</string>
+    <!--to toggle the open close button
+           of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_initial_inputs">Initial Inputs</string>
+    <string name="nav_automatic_mode">Automatic Mode</string>
+    <string name="nav_manual_mode">Manual Mode</string>
+
+
+    <string-array name="chord_progressions">
+        <item>Cmaj</item>
+        <item>Cmin</item>
+        <item>C#/Dbmaj</item>
+        <item>C#/Dbmin</item>
+        <item>Dmaj</item>
+        <item>Cmin</item>
+        <item>D#/Dbmaj</item>
+        <item>D#/Ebmin</item>
+        <item>Emaj</item>
+        <item>Emin</item>
+        <item>Fmaj</item>
+        <item>Fmin</item>
+        <item>F#/Gbmaj</item>
+        <item>F#/Gbmin</item>
+        <item>Gmaj</item>
+        <item>Gmin</item>
+        <item>G#/Abmaj</item>
+        <item>G#/Abmin</item>
+        <item>Amaj</item>
+        <item>Amin</item>
+        <item>A#/Bbmaj</item>
+        <item>A#/Bbmin</item>
+        <item>Bmaj</item>
+        <item>Bmin</item>
+        <item>n/a</item>
+    </string-array>
+
+    <string-array name="number_of_harmonies">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="notes">
+        <item>C</item>
+        <item>C#/Db</item>
+        <item>D</item>
+        <item>D#/Eb</item>
+        <item>E</item>
+        <item>F</item>
+        <item>F#/Gb</item>
+        <item>G</item>
+        <item>G#/Ab</item>
+        <item>A</item>
+        <item>A#/Bb</item>
+        <item>B</item>
+        <item>n/a</item>
+    </string-array>
+
+    <string-array name="octave">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="length">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
