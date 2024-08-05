@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 3_Battery_Charger_v2_Sheet1.PcbDoc   3/1/2022  3:44:22 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : 3_Battery_Charger_v2_Sheet1-Plated.TXT
+EIA File   : 3_Battery_Charger_v2_Sheet1.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             5         PTH        0.17inch (4.30mm)
+T2      12mil (0.3mm)                                             Round             6         PTH        0.18inch (4.60mm)
+T3      28mil (0.711mm)                                           Round             11        PTH        5.16inch (131.13mm)
+T4      30mil (0.75mm)                                            Round             8         PTH        3.43inch (87.01mm)
+T5      30mil (0.762mm)                                           Round             2         PTH        1.94inch (49.20mm)
+T6      35mil (0.889mm)                                           Round             25        PTH        12.05inch (306.09mm)
+T7      37mil (0.94mm)                                            Round             6         PTH        2.49inch (63.31mm)
+T8      38mil (0.965mm)                                           Round             2         PTH        1.08inch (27.49mm)
+T9      40mil (1.016mm)                                           Round             2         PTH        0.93inch (23.55mm)
+T10     42mil (1.067mm)                                           Round             2         PTH        0.77inch (19.51mm)
+T11     125mil (3.175mm)                                          Round             4         PTH        8.41inch (213.61mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              73
+
+Total Processing Time (hh:mm:ss) : 00:00:00
