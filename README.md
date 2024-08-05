@@ -12,6 +12,11 @@ Existing plugins that create harmonies do exist, however, most of the harmonizer
 
 The Audio Harmonizer system comprises two major components, the mobile application and the harmony generator, as seen in Figure 2.1. The mobile application that allows the users to choose the harmonies and the tempo of the music. This information will be passed via bluetooth to the harmony generator.  
 The harmony generator takes an analog audio input from a microphone, converts it to a digital signal, uses the information passed down via bluetooth to generate the correct harmonies, and converts the new digital signal to an analog output which can be played through an amplifier.
-![image](https://github.com/user-attachments/assets/8284fc2e-9929-4593-bc23-bfb41f6662f0)
+![image](https://github.com/user-attachments/assets/d704533c-7466-4840-91e5-b99805db9938)
+Figure 1.1. Manual Mode Input-Output Diagram
+
+
+![image](https://github.com/user-attachments/assets/1a876800-4886-4ee3-b0e7-b6879be45e1c)
+Figure 1.2. Automatic Mode Input-Output Diagram
 
 
